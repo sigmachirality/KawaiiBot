@@ -1,2 +1,2 @@
-# KawaiiBot
-Discord bot for (a̶n̶i̶m̶e) picture posting, written in Golang using discordgo.
+# WaifuBot
+Inspired by Isak Vik's Java project of the [same name.](https://github.com/isakvik/waifubot)
